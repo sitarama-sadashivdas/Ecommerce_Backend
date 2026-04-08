@@ -1,0 +1,21 @@
+# Documentation Progress
+- [x] app.js
+- [x] controllers/authController.js
+- [ ] controllers/cartController.js
+- [ ] controllers/orderController.js
+- [ ] controllers/productController.js
+- [ ] middleware/auth.js
+- [ ] middleware/errorHandler.js
+- [ ] middleware/validation.js
+- [ ] models/Cart.js
+- [ ] models/Order.js
+- [ ] models/Product.js
+- [ ] models/User.js
+- [ ] routes/authRoutes.js
+- [ ] routes/cartRoutes.js
+- [ ] routes/orderRoutes.js
+- [ ] routes/productRoutes.js
+- [ ] config/database.js
+- [ ] config/jwt.js
+- [ ] utils/helpers.js
+
